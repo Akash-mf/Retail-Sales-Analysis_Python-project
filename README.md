@@ -34,4 +34,3 @@ The script performs the following tasks:
 
 ---
 
-## **Project Structure**
